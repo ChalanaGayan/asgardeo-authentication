@@ -1,0 +1,38 @@
+[
+  {
+    "catergoryId": "trending",
+    "catergoryName": "Trending",
+    "resources": [
+      {
+        "id": "23r23r23rwt",
+        "name": "One Piece",
+        "image": "https://www.toei-animation.com/wp-content/uploads/2019/02/one_piece_product.jpg",
+        "description": "Adventures of Monkey D. Luffy and his pirate crew in search of the legendary treasure."
+      },
+      {
+        "id": "23r23r23rwt",
+        "name": "One Piece",
+        "image": "https://www.toei-animation.com/wp-content/uploads/2019/02/one_piece_product.jpg",
+        "description": "Adventures of Monkey D. Luffy and his pirate crew in search of the legendary treasure."
+      }
+    ]
+  },
+  {
+    "catergoryId": "recommended",
+    "catergoryName": "Recommended",
+    "resources": [
+      {
+        "id": "23r23r23rwt",
+        "name": "Arcane",
+        "image": "https://wallpapercave.com/wp/wp10677784.jpg",
+        "description": "Explores the origins of two iconic League of Legends champions."
+      },
+      {
+        "id": "23r23r23rwt",
+        "name": "Blue Eye Samurai",
+        "image": "https://images.alphacoders.com/134/1346645.png",
+        "description": "A young boy who becomes a demon slayer after his family is slaughtered by demons."
+      }
+    ]
+  }
+]
